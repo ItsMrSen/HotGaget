@@ -1,0 +1,64 @@
+
+.left{
+    margin-left: 400px;
+    color: gray;
+}
+.container{
+    margin-top: 100px;
+}
+.row{
+    margin-top:50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.row-1{
+    color: grey;
+    font-size: 20px;
+}
+.buy-btn{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    box-shadow: 2px 2px 10px lightslategray;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.button:hover{
+    transform: scale(1.3);
+    color: cornsilk;
+}
+.buy-btn-2{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    box-shadow: 2px 2px 10px lightslategray;
+    padding: 9px 25px;
+    cursor: pointer;
+    padding: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    column-gap: 20px;
+}
+.prodt{
+    text-align: center;
+    margin: 30px;
+    padding: 20px 0 20px;
+}
+.cat{
+    text-align: center;
+}
+.cat-1{
+    border-width: 30px;
+    padding: 60px 60px;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px lightgray;
+}
